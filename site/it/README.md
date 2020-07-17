@@ -20,23 +20,44 @@ To volunteer to write or review community translations, contact the
 
 Alcune parole fanno parte di un vocabolario tecnico inglese e pertanto non hanno una traduzione naturale. Per favore *non* traducete le seguenti parole:
 
-*   layer
-*   gradient tape
+*   account(s)
 *   batch(es)
+*   blog(s)
 *   browser
+*   build(s)
+*   callback(s)
 *   cluster(s)
+*   code-cell(s)
+*   committer(s)
+*   contributor(s)
 *   dataflow
+*   dataset
 *   deep learning
+*   download
+*   dropout
+*   email(s)
+*   gradient tape
+*   issue(s)
 *   layer(s)
+*   log(s)
 *   machine learning
+*   mailing list(s)
+*   maintainer(s)
+*   merge(s)
 *   multicore
 *   notebook(s)
 *   overfit(ting)
 *   pattern(s)
 *   pixel(s)
+*   pull request(s)
+*   repository(ies)
 *   skill(s)
+*   social media(s)
 *   tablet(s)
 *   test(s)
+*   training weight(s)
 *   tutorials(s)
 *   underfit(ting)
+*   unit test/ing(s)
+*   upload
 *   white paper(s)
